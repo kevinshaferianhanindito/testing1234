@@ -13,6 +13,9 @@ struct ContentView: View {
             Image("LOGO-UC-FIX-SEP-2021-01")
                 .resizable()
                 .scaledToFit()
+            Text("Creating")
+            Text("World Class")
+            Text("Entrepreneur")
         }
         .padding()
     }
